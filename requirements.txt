@@ -1,0 +1,3 @@
+tabulate
+aiohttp
+pyshorteners
